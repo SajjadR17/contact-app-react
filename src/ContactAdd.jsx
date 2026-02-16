@@ -5,7 +5,7 @@ function ContactAddSection() {
   const [form, setForm] = useState({
     name: "",
     email: "",
-    phone: "",
+    phone: "", 
     lastName: "",
   });
 
